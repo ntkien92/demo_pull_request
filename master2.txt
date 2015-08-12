@@ -1,8 +1,8 @@
 Dong 1
 Dong 2
-Dong 3
+Dong 3, nguyen trung kien
 Dong 4
-Dong 5, nguyen trung kien
+Dong 5
 Dong 6
 Dong 7
 Dong 8
