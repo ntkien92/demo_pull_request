@@ -5,7 +5,11 @@ Dong 4
 Dong 5
 Dong 6
 Dong 7
-Dong 8
+<<<<<<< HEAD
+Dong 8, nguyen thi minh tin 8
+=======
+Dong 8 Nguyen Trung Kien
+>>>>>>> 73438fd539a087c183544d292a5b6561a323d30d
 Dong 9
 Dong 10
 Dong 11
